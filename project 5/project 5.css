@@ -1,0 +1,53 @@
+.header-area {
+    background-color: whitesmoke;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+    /* background-color: red; */
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    /* align-content: center; */
+    align-items: center;
+}
+
+.menu ul {
+    /* color: red; */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.menu ul li a {
+    /* font-size: 18px; */
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 8px 18px;
+}
+
+.logo h1 {
+    margin: 0;
+    font-weight: 400;
+}
+
+.button button {
+    /* padding: 8px; */
+    padding: 8px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    border: 1px solid #333;
+    border-radius: 4px;
+}
+
+.menu li a:hover {
+    background-color: #fff;
+    color: red;
+}
