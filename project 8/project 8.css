@@ -1,0 +1,190 @@
+
+
+*{
+    margin:0;
+    padding:0;
+    border box-sizing: 0;
+    }
+    
+    .header-area {background-color:  rgb(9, 220, 248);
+         
+    }
+    
+   
+   .container {
+       width: 85%;
+       margin: 0 auto;
+       border:6px solid yellow;
+       background-color: rgb(153, 251, 6);
+   }
+   
+   .header-wrapper {
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+   }
+   
+   span {
+    color: orange;
+}
+   
+     
+   
+   .menu ul{
+       padding: 0;
+       margin: 0;
+       list-style:none;
+       display:flex 
+   }
+   
+   li ul a {
+       text-decoration: none;
+        
+   }
+   
+   .menu ul li a {
+       text-decoration: none;
+       color:  white;
+       font-weight: 500;
+       font-size: 18px;
+       padding: 8px 20px;
+       
+   }
+   
+   .logo h1 {
+       margin: 0;
+       font-weight: 500;
+       
+   }
+   
+   .button button {
+       padding: 8px 20px;
+       font-size: 16px;
+       font-weight: 400;
+       border: 3px solid rgb(255, 34, 0);
+       border-radius: 4px;
+       background-color: pink;
+        
+   }
+   .menu ul li a:hover {
+       color: yellow ;
+       background-color:   rgb(253, 244, 6);
+       border: 5px solid  yellow;
+       border-radius:10px;
+        
+   }
+   
+   .parent {
+       width: 800px;
+       height: 400px;
+        
+   }
+   
+   .slider-area{
+   background: url('bb\ \(2\).jpg');
+   height:500px;
+   ;background-position:  top;
+   background-size: cover;
+   background-repeat: no-repeat;}
+   
+   .slider-wrapper {
+       width: 70%;
+       margin: 0 auto;
+       text-align: center;
+       padding-top: 50px;
+   }
+   
+   .slider-wrapper h2 {
+       font-size: 50px;
+       font-weight: 300;
+   }
+   
+   .slider-wrapper p {
+       font-size: 20px;
+       font-weight: 400;
+       letter-spacing: 1px;
+   }
+   
+   
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper 1{
+    display: flex;
+  
+}
+
+.wrapper 2{
+    display: flex;
+  
+}
+
+
+ 
+h1 {
+    font-size: 32px;
+    color: green;
+    text-align: center;
+}
+
+ 
+.button button {
+    padding: 8px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    border: 4px solid rgb(253, 49, 3);
+    border-radius: 5px;
+   background-color:yellow;
+ 
+}
+
+.button button:hover {
+    background-color: red;
+    color: white;
+}
+
+ .button{
+    text-align: center;
+ 
+margin-bottom: 50px;
+
+ }
+
+ .img.\31 {
+    text-align: center;
+    color: white;
+     
+}
+ 
+
+.img.\32 {
+    text-align: center;
+    color: white;
+    text-align: center;  
+}
+
+
+.img.\33 {
+    text-align: center;
+    color: white;
+    text-align: center;
+}
+
+.image-area{
+background-color: rgb(255, 187, 0);
+PADDING:18PX 20PX;
+
+
+}
+ 
