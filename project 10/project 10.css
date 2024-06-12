@@ -1,0 +1,63 @@
+.form-area{
+
+    background:url('e.jpeg')
+     
+}
+  
+
+h2 {
+    padding: 20px;
+    text-align: center;
+    color: rgb(6, 6, 6);
+    font-size: 40px;
+    font-weight:400
+}
+form {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+input[type="\ name"] {
+    display: inline-block;
+}
+
+
+input[type="\ name"] {
+    padding: 10px 60px;
+    border:2px solid red;
+    border-radius:10px;
+}
+
+input[type="\ \ email"] {
+    padding: 10px 60px;
+    border:2px solid red;
+    border-radius:10px;
+}
+
+
+input[type="\ \ number"] {
+    padding: 10px 60px;
+    border:2px solid red;
+    border-radius:10px;
+}
+
+input[type="\ \ password"] {
+    padding: 10px 60px;
+    border:2px solid red;
+    border-radius:10px;
+}
+
+ select {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 2px solid red;
+}
+
+
+
+ 
+button {
+    padding: 10px 20px;
+    border:2px solid red;
+    border-radius:10px;
+}
