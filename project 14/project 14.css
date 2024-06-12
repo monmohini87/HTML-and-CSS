@@ -1,0 +1,9 @@
+image-container{
+width:450px;
+}
+
+.image-container img{
+width:50%;
+height: 10%;
+object-fit: cover;
+}
