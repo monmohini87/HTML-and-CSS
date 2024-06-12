@@ -1,0 +1,39 @@
+*{
+margin:0;
+padding:0;
+/* border box-sizing: 0; */
+}
+
+
+
+.container{
+background-image: url('M.jpg');
+height:300px;
+width:100%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}
+
+
+
+.hh h1 {
+    color: red;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 50px;
+}
+
+
+
+span {
+    color: blue;
+}
+
+
+P{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
