@@ -1,0 +1,33 @@
+.container {
+    width: 1140px;
+    background-color: orange;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+}
+
+.phone {
+    width: 210px;
+    float: left;
+}
+
+.email {
+    width: 500px;
+    float: left;
+}
+
+#homeslider{
+background-image: url('a.jpg');
+
+}
+
+section#homeslider {
+    background: no-repeat;
+    background-color: pink;
+}
+
+ 
+ 
+ 
+
+ 
