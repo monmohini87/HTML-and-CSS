@@ -1,0 +1,38 @@
+.area {
+    background-color: #0712e9;
+    height: 70px;
+    margin-top: 90px;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+    background-color: rgb(140, 255, 0);
+    height: 50px;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 500px;
+}
+
+.menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;margin-top: 15px;  
+}
+
+.menu ul li a{
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 500; 
+}
+
+.menu ul li a:hover{
+    background-color: blue;
+    color: azure;
+}
