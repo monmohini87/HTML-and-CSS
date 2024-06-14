@@ -1,0 +1,42 @@
+.area {
+    width: 100%;
+    margin-top:90px;
+    border:7px solid limegreen;
+    background-color:yellow;
+    outline-width:20px;
+    outline-style:double;
+    outline-offset:inherit;
+    outline-color:#f79400;   
+}
+
+.container {
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.box1{
+    width:20%;
+}
+
+.box2{
+    width:20%;
+    }
+
+.box3{
+     width:20%;
+}
+
+.box4{
+    width:20%;
+    }
+
+.box5{
+    width:20%;
+    }
+
+img{
+    border:20px solid rgb(254, 123, 7);
+    border-radius: 10px;
+     }
