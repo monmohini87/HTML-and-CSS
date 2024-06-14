@@ -1,0 +1,59 @@
+.form-area{
+    background: url('a.jpg');
+    height: 650px;
+    text-align: center;
+    position: relative;
+}
+
+.form-area h2 {
+    color: rgb(251, 249, 249);
+    font-size: 50px;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+    }
+
+input {
+    display: block;
+    width: 300px;
+    margin: 20px 0;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 2px solid goldenrod;
+    color: white;
+    background: none;
+    font-size: 16px;
+    }
+
+form{
+    width: 350px;
+    color:white;
+    margin: 0 auto;
+    padding-top: 30px;
+    }
+
+.opacity{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    content: "";
+    background: black;
+    opacity: .4;
+    }
+
+button{
+    background: none;
+    border: 2px solid red;
+    padding:8px 35px;
+    font-size: 18px;
+    color: aliceblue;
+    margin-top: 20px;
+    border-radius: 5px;
+    opacity: .8;
+    }
+
+button:hover{
+    color: black;
+    background-color: aqua;
+    }
