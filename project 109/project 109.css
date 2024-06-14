@@ -1,0 +1,38 @@
+
+.area{
+    margin-top: 90px;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    background-color: rgb(14, 14, 14);
+    border: 10px solid rgb(245, 77, 5);
+    outline-width: 100%;
+    outline-style: double;
+    outline-color: rgb(5, 249, 5);
+    outline-offset: 20px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+width: 100%;
+height: 80%;
+border: 10px solid rgb(4, 222, 241);
+}
+
+h1{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px; 
+}
+
+p{
+    font-size: 20px;
+    color: white;  
+    margin-left: 20px; 
+}
