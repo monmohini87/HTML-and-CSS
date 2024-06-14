@@ -1,0 +1,57 @@
+.header-area {
+    background-color: #3af646;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 20px;
+}
+
+.logo h1 {
+    margin: 0;
+    font-weight: 400;
+}
+
+.button button {
+    padding: 8px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    border: 2px solid #4103f9;
+    border-radius: 4px;
+}
+
+.menu ul li a:hover {
+    background-color: #fff;
+    color: red;
+    border: 2px solid rgb(199, 241, 13);
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color:rgb(49, 11, 236);
+    color: red;
+    border: 2px solid pink;
+    border-radius: 5px;
+}
