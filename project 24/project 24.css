@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container2 {
+    width: 85%;
+    margin: 0 auto;
+}
+.image-wrapper {
+    display: flex;
+    justify-content: space-between;
+    }
+h2 {
+    margin-top: 20px;
+   }
+ 
+p {
+    text-align: center;
+    width: 500px;
+    margin-left: 500px;
+    margin-bottom: 36px;
+}
+.section-title {
+    text-align: center;
+    margin-top: 80px;
+}
+h1 {
+    text-align: center
+    ;
+    font-size:40px;
+    margin-bottom:20px;
+    margin-top:50px;
+}
