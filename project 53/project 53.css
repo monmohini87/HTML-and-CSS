@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(52, 239, 199);
+}
+ 
+.menu-area {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(241, 5, 217);
+    margin: 0 auto;
+    }
+
+.menu-main ul{
+    list-style: none;
+    display: flex;
+    }
+
+.menu-main ul li{
+    padding: 10px 20px;  
+    }
+
+.menu-main ul li a{
+    text-decoration: none;
+    color:rgb(9, 8, 8);
+}
+
+#act{
+    background-color: rgb(232, 248, 7);
+    }
+
+.menu-main ul li a:hover{
+    background-color: rgb(45, 9, 249);
+    }
