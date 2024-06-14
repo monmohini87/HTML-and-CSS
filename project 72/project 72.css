@@ -1,0 +1,35 @@
+.about-wrapper {
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+    margin-top: 90px;
+}
+
+.container{
+width: 60%;
+margin: 0 auto;
+justify-content: space-between;
+}
+
+.box1 {
+    width: 45%;
+}
+
+.box2 {
+    width: 65%;
+}
+
+.box2 img {
+    width: 80%;
+    height: 100%;
+    margin: 0;
+    margin-left: 90px;
+}
+
+.box1 p{
+ font-size: 16px;
+ text-align: justify;
+ line-height: 25px;
+}
+
+ 
