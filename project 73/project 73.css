@@ -1,0 +1,38 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.box1 {
+    width: 32%;
+}
+
+.box2 {
+    width: 32%;
+}
+
+.box3 {
+    width: 32%;
+}
+
+img{
+    height: 79%;
+    width: 100%;
+}
+
+h1{
+    font-size: 30px;
+    color:  #585d6a;
+}
+
+
+p{  
+    color:  #81899b;
+    font-size: 24px;
+}
