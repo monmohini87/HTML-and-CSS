@@ -1,0 +1,24 @@
+.area {
+    width: 100%;
+    height: 600px;   
+    margin-top: 90px;
+}
+
+.container {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+ 
+.box1 {
+    width: 29%;
+}
+
+.box2 {
+    width: 29%;  
+}
+
+.box3 {
+    width: 33%;
+}
