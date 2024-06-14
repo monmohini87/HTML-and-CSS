@@ -1,0 +1,44 @@
+.area{
+    background: url('mn.jpg');
+    height: 460px;
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    width: 32%;
+    margin: 0 auto;
+}
+
+.wrapper {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+ 
+}
+
+.button button{
+    text-align: center;
+    font-size: 12px;
+    padding: 12px 40px;
+    background-color:#74A84A;
+    letter-spacing: 2px;
+    color: white;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    margin: -60px;
+}
+
+h1{
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+p{
+    padding: 80px;
+    margin: -60px;
+}
