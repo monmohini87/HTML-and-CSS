@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.area{
+  background-color: #EDEAE8; 
+  margin-top: 90px;
+}
+
+.container {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.wrapper1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.wrapper2 {
+    justify-content: space-between;
+    display: flex;
+}
+
+img{
+
+    height:300px ;
+    width: 300px;
+}
+
+h1{
+font-size: 22px;
+text-align: center;
+ }
+
+
+p{
+    font-size: 14px;
+    text-align: center;
+    font-weight: 100;
+}
