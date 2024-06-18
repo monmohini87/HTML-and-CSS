@@ -1,9 +1,6 @@
 .form-area{
-
-    background:url('e.jpeg')
-     
+    background:url('e.jpeg') 
 }
-  
 
 h2 {
     padding: 20px;
@@ -12,15 +9,16 @@ h2 {
     font-size: 40px;
     font-weight:400
 }
+
 form {
     text-align: center;
     color: black;
     font-size: 20px;
 }
-input[type="\ name"] {
+
+input[type="\ name"]{
     display: inline-block;
 }
-
 
 input[type="\ name"] {
     padding: 10px 60px;
@@ -33,7 +31,6 @@ input[type="\ \ email"] {
     border:2px solid red;
     border-radius:10px;
 }
-
 
 input[type="\ \ number"] {
     padding: 10px 60px;
@@ -53,9 +50,6 @@ input[type="\ \ password"] {
     border: 2px solid red;
 }
 
-
-
- 
 button {
     padding: 10px 20px;
     border:2px solid red;
