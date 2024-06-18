@@ -1,0 +1,29 @@
+.area{
+background: url('hy.jpg');
+height: 400px;
+background-position: bottom;
+background-size: cover;
+background-repeat: no-repeat;
+padding-top: 140px;
+padding-bottom: 10px;
+}
+
+.container{
+width: 58%;
+margin: 0 auto;
+}
+
+h1{
+color: white;
+font-size: 50px;
+font-weight: 100;
+text-align: center;
+line-height: 65px;
+font-family: 'Cormorant Garamond',serif;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
