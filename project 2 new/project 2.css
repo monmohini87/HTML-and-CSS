@@ -1,0 +1,120 @@
+.header-area {
+    background-color: gainsboro;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.header-wrapper{
+    text-align: center;
+}
+
+.menu ul {
+    margin: 1px;
+    padding-bottom: 1px;
+    list-style: none;
+    display: flex;
+
+}
+ 
+.menu ul li{
+ 
+ 
+    padding:1px 5px;
+    font-size: 16px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.menu ul li a{
+ 
+text-align: center;
+color:black;
+font-weight: 500;
+font-size: 18px;
+padding: 8px 20px;
+
+}
+
+ 
+
+.container {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+ 
+
+.menu ul{
+list-style: none;
+padding: 0;
+margin: 0;
+display: flex;
+}
+
+.menu ul li a{
+text-decoration: none;
+font-size: 12px;
+font-weight: 300;
+padding: 8px 10px;
+ 
+
+}
+
+
+.container {
+    width: 350%;
+    margin-right: 200px;
+
+
+}  
+
+.wrapper2 {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.image-area{
+    height: 500px;
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 55px;
+    line-height: 75px;
+    font-family: "EB Garamond", serif;
+    font-weight: 600;
+    color: #25272D;
+}
+
+p{
+    font-size: 18px;
+    line-height: 28px;
+    width: 65%;
+    margin-bottom:30px ;
+  
+}
+
+
+.img{
+    margin-right: 590px;
+    height: 1920px;
+  
+} 
+
+.footer-area{
+    text-align: center;
+    font-size: 25px;
+    background-color: blanchedalmond;
+}
+ 
+
+ 
+ 
+
+ 
